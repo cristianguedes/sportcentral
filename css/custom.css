@@ -1,0 +1,47 @@
+// Alterações Edson
+
+#navbar {
+    background-color: #BD1C21;
+}
+
+#navbar .img-responsive{
+    max-width: 57px;
+    position: relative;
+    float: left;
+    padding-right: 20px;
+}
+
+header {
+    background: #DD6B24;
+}
+
+section.success {
+    background: #FCC103;
+}
+
+footer .footer-above {
+    background-color: #202020;
+}
+
+footer .footer-below {
+    background-color: #202020;
+}
+
+.btn-success {
+    background-color: #F59618;
+    border-color: #FDC109;
+}
+
+hr.star-light:after {
+    background-color: rgba(252,193, 3, 1);
+}
+hr.star-light-top:after {
+    background-color: rgba(252,193, 3, 1);
+}
+
+a, a:hover, a:focus, a:active, a.active {
+    color: #FCC103;
+}
+a {
+    color: #DD6B24;
+}
